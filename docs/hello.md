@@ -3,6 +3,6 @@ sidebar_label: 'Hi!'
 sidebar_position: 3
 ---
 
-# Hello
+# Hello  world
 
 This is my **first Docusaurus document**!
